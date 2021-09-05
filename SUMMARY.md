@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Record Linkage!](README.md)
+* [Welcome to the record linkage course!](README.md)
 
 ## Materials
 

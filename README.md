@@ -2,7 +2,7 @@
 description: This guidebook contains information about the ESTHER record linkage workshop
 ---
 
-# Welcome to Record Linkage!
+# Welcome to the record linkage course!
 
 ## Towards an end-to-end record linkage pipeline using machine learning
 
