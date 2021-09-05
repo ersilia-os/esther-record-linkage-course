@@ -12,7 +12,15 @@ The course will be structured in 2 introductory sessions and 4 hands-on sessions
 
 ### Basic record linkage course
 
-{% page-ref page="./" %}
+{% page-ref page="materials/ml1-basic-course-s5.md" %}
+
+{% page-ref page="materials/ml2-basic-course-s6.md" %}
+
+{% page-ref page="materials/ml3-advanced-course-s1.md" %}
+
+{% page-ref page="materials/ml5-advanced-course-s3.md" %}
+
+{% page-ref page="materials/ml6-advanced-course-s4.md" %}
 
 For more information, visit the [ESTHER Project on Moodle](https://swisstph.ecampus.ssphplus.ch/course/view.php?id=338).
 
