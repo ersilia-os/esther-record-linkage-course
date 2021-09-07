@@ -4,7 +4,6 @@
 
 ## Materials
 
-* [Machine learning](materials/module-2.md)
 * [ML1 - Basic course: S5](materials/ml1-basic-course-s5.md)
 * [ML2 - Basic course: S6](materials/ml2-basic-course-s6.md)
 * [ML3 - Advanced course: S1](materials/ml3-advanced-course-s1.md)
