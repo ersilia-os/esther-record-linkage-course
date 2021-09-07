@@ -12,6 +12,6 @@ Participants will learn about the importance of distributing code to their colla
 
 ### Materials
 
-* Pre-recorded video \(30min\):
+* Pre-recorded video \(30min\): [https://youtu.be/P7CmHbLU4sk](https://youtu.be/P7CmHbLU4sk)
 * See [Moodle](https://swisstph.ecampus.ssphplus.ch/mod/folder/view.php?id=9874) for more!
 
